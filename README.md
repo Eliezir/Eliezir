@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Eliezir">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eliezir&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezir&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Eliezir&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezir&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 <div style="display: inline_block"><br>
