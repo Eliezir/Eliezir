@@ -21,7 +21,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eliezir/Eliezir/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/8d51163d2527078b73535df413e63e9ba5eb0f81/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/8d51163d2527078b73535df413e63e9ba5eb0f81/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 
