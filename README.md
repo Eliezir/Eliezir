@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋! I'm Eliezir</h1>
+<h1 align="center">It's me, Hi!</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliezir&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Eliezir&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliezir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center" gap:"3%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliezir&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130px"  alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eliezir&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  height="130px" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eliezir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true"  height="130px"  alt="languages graph"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 Graduate in Systems Analysis and Development from IFAL (Federal Institute of Alagoas)<br>👨‍💻 Computer Science student at UFAL (Federal University of Alagoas) <br>💻 Currently, I'm focused on web development, sharpening my skills in JavaScript, HTML, CSS, Bootstrap, React, React Native, and Vue<br>👷 Experienced as a React Native Student Tutor at the IFAL, where I provided guidance and support to fellow students in the IFAL <a href="https://www.instagram.com/lapp.ifal/">@App Lab </a><br>📝 Additionally, at IFAL, I organized a teaching project where I conducted introductory web 
+<p align="left">🎓 Graduate in Systems Analysis and Development from IFAL (Federal Institute of Alagoas)<br>👨‍💻 Computer Science student at UFAL (Federal University of Alagoas) <br>💻 Currently, I'm focused on web development, sharpening my skills in JavaScript, HTML, CSS, Bootstrap, React, React Native, and Vue<br>👷 Experienced as a React Native Student Tutor at the IFAL, where I provided guidance and support to fellow students in the IFAL <a href="https://www.instagram.com/lapp.ifal/">@App Lab </a><br>📝 Additionally, at IFAL, I organized a teaching project where I conducted introductory web classes
   <a href="https://www.instagram.com/websitesblessed/">@Blessed</a></p>
 
 ###
