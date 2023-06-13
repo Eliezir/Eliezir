@@ -1,4 +1,4 @@
-<h1 align="center">It's me, Hi!</h1>
+<h1 align="center">Hi, I'm Eliezir  <img style="height:80px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU5ZDI2NDIxNzM1YTBlODkzMDZlZWQ0ZGIzZWY4NjJmODIxNGI5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/YrBidlMIUKks6gDBIx/giphy.gif"></h1>
 
 ###
 
