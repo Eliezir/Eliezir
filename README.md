@@ -17,7 +17,7 @@
 ###
 
 <p align="left">🎓 Graduate in Systems Analysis and Development from IFAL (Federal Institute of Alagoas)<br>👨‍💻 Computer Science student at UFAL (Federal University of Alagoas) <br>💻 Currently, I'm focused on web development, sharpening my skills in JavaScript, HTML, CSS, Bootstrap, React, React Native, and Vue<br>👷 Experienced as a React Native Student Tutor at the IFAL, where I provided guidance and support to fellow students in the IFAL <a href="https://www.instagram.com/lapp.ifal/">@App Lab </a><br>📝 Additionally, at IFAL, I organized a teaching project where I conducted introductory web classes
-  <a href="https://www.instagram.com/websitesblessed/">@Blessed</a></p>
+  <a href="https://www.instagram.com/blessed.sites/">@Blessed</a></p>
 
 ###
 
