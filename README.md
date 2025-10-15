@@ -16,8 +16,9 @@
 
 ###
 
-<p align="left">🎓 I've got a technician degree on Systems Analysis and Development from IFAL (Federal Institute of Alagoas)<br>👨‍💻 Computer Science student at UFAL (Federal University of Alagoas) <br>💻 Currently, I'm focused on web development, sharpening my skills in JavaScript, HTML, CSS, Bootstrap, React, React Native, and Vue<br>👷 Experienced as a React Native Student Tutor at the IFAL, where I provided guidance and support to fellow students in the IFAL <a href="https://www.instagram.com/lapp.ifal/">@App Lab </a><br>📝 Additionally, at IFAL, I organized a teaching project where I conducted introductory web classes
-  <a href="https://www.instagram.com/blessed.sites/">@Blessed</a></p>
+<p align="left">🎓 I hold a technician degree in Systems Analysis and Development from IFAL (Federal Institute of Alagoas) and am currently pursuing a degree in Information Systems also at IFAL.
+  
+  💻 My core focus is on web development , where I am actively sharpening my skills in modern frameworks and languages, including JavaScript, HTML, CSS, Bootstrap, React, React Native, and Vue.<br>👨‍🏫  have technical leadership experience as a React Native Student Tutor at the IFAL <a href="https://www.instagram.com/lapp.ifal/">@App Lab</a>, where I provided direct guidance and support to fellow students. Additionally, I organized and conducted a teaching project at IFAL, leading introductory web classes for freshmen 📝 through the <a href="https://www.instagram.com/blessed.sites/">@Blessed</a> project.</p>
 
 ###
 
