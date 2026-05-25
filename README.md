@@ -50,5 +50,13 @@
 </table>
 
 <img width="880" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="profile details" />
+<picture>
 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake.svg" />
+
+  <img width="880" alt="github contribution snake" src="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake.svg" />
+
+</picture>
 </div>
