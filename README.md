@@ -42,21 +42,13 @@
 
 <img width="880" src="https://streak-stats.demolab.com?user=Eliezir&theme=dracula&hide_border=true&border_radius=5&card_width=880" alt="streak stats" />
 
-<br/>
-
-<img width="440" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/3-stats.svg" alt="github stats" />
-<img width="440" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" />
-
-<br/>
+<table align="center" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
+  <tr>
+    <td><img width="440" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/3-stats.svg" alt="github stats" /></td>
+    <td><img width="440" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" /></td>
+  </tr>
+</table>
 
 <img width="880" src="https://raw.githubusercontent.com/Eliezir/Eliezir/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="profile details" />
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake.svg" />
-  <img width="880" alt="github contribution snake" src="https://raw.githubusercontent.com/Eliezir/Eliezir/output/github-snake.svg" />
-</picture>
 
 </div>
