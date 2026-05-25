@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 <img align="right" height="145" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="BMO at the computer" />
 
@@ -35,8 +34,6 @@
 <a href="https://linkedin.com/in/eliezir">
   <img src="https://img.shields.io/badge/LinkedIn-eliezir-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-
----
 
 <div align="center">
 
