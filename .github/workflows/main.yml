@@ -13,7 +13,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: generate snake.svg
         uses: Platane/snk@v3     
