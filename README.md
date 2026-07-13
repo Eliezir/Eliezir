@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img width="880" src="https://streak-stats.demolab.com?user=Eliezir&theme=dracula&hide_border=true&border_radius=5&card_width=880" alt="streak stats" />
+<img width="880" src="https://streak-stats.demolab.com?user=Eliezir&theme=dracula&mode=weekly&hide_border=true&border_radius=5&card_width=880" alt="streak stats" />
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
   <tr>
